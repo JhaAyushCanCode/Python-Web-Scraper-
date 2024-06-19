@@ -1,0 +1,3 @@
+Required libraries:
+
+pip install requests beautifulsoup4 pandas googlesearch-python openpyxl
